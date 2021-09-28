@@ -46,4 +46,3 @@ export default function Home({allPostsData}) {
     </Layout>
   )
 }
-// hello world
